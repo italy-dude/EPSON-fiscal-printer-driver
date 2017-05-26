@@ -4,6 +4,8 @@ e modificato per lavorare correttamente con stampanti fiscalizzate come la Epson
 
 ### Introduzione ###
 
+![Epson fiscal printer](http://i.imgur.com/EdRH7LM.jpg)
+
 Il progetto completo POS Touch sarà disponibile in futuro in GitHub, per ora è disponibile il driver per stampanti epson modificato per funzionare con la Epson FPXX ed il codice che permette all'applicativo Web scritto in codeigniter di richiamare il driver.
  
 ### Installazione ###
